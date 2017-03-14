@@ -1,0 +1,11 @@
+{
+  "name": "node-basic-api",
+  "version": "0.0.1",
+  "description": "Basic API using node and express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian Thorp",
+  "license": "ISC"
+}
